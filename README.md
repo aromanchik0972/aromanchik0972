@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Andrew Romanchik
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-romanchik-071a98220/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-romanchik/)
 
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:aromanchik1@hotmail.com)
