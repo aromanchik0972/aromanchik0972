@@ -7,7 +7,6 @@
 
 ## About me
 I'm a student at Georgia Tech, studying computer science and specializing in artificial intelligence and information networks. 
-In addition to school, I'm working on a startup company working to integrate machine learning into the healthcare industry.
 
 
 <!---
